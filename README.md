@@ -14,6 +14,9 @@ RecyclerView
   
 05  
 FloatingActionButton and RecyclerView (add and del)  
+  
+06
+Bottom Navigation Views Activity
  
 
 
