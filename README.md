@@ -16,7 +16,10 @@ RecyclerView
 FloatingActionButton and RecyclerView (add and del)  
   
 06
-Bottom Navigation Views Activity
+Bottom Navigation Views Activity  
+  
+07 
+Json file and ListView
  
 
 
