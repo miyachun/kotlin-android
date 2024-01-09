@@ -1,25 +1,18 @@
 -Android kotlin-  
   
-k01  
-Button and Toast 
+k01 Button and Toast 
   
-02    
-RadioButton and CheckBoxButton  
+k02 RadioButton and CheckBoxButton  
   
-03  
-ListView (add and del)  
+k03 ListView (add and del)  
   
-04  
-RecyclerView  
+k04 RecyclerView  
   
-05  
-FloatingActionButton and RecyclerView (add and del)  
+k05 FloatingActionButton and RecyclerView (add and del)  
   
-06
-Bottom Navigation Views Activity  
+k06 Bottom Navigation Views Activity  
   
-07 
-Json file and ListView
+k07 Json file and ListView
  
 
 
