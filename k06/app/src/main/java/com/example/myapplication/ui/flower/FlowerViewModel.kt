@@ -3,8 +3,7 @@ package com.example.myapplication.ui.flower
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import androidx.recyclerview.widget.RecyclerView
-import com.example.recyclersample.Datasource
+
 
 class FlowerViewModel : ViewModel() {
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.recyclersample
+package com.example.myapplication.ui.flower
 
 import android.content.Context
 import com.example.myapplication.R
