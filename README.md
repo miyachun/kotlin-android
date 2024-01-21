@@ -12,7 +12,9 @@ k05 FloatingActionButton and RecyclerView (add and del)
   
 k06 Bottom Navigation Views Activity  
   
-k07 Json file and ListView
+k07 Json file and ListView  
+  
+k08 Navigation Drawer Views Activate
  
 
 
